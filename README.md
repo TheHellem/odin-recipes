@@ -5,3 +5,5 @@ Will demonstrate the basic HTML knowledge I have aquired thus far, aswell as pra
 well crafted commit messages.
 
 All recipes are from [this website](https://www.allrecipes.com/): 
+
+Source of the project: [https://www.theodinproject.com/paths/foundations/courses/foundations]
